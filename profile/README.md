@@ -2,8 +2,7 @@
 Cascade is a software development team
 
 ## The Software we develop
-- [X] GuestSandbox
-- [X] cascadeOS
+- [X] Combine Sandbox
 - [X] cascade-sdk
 
 ## How to join us?
