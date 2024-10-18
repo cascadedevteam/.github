@@ -10,6 +10,5 @@ Create a new issue on our `.github` repository explaining why you should join ca
 
 ## Team Members
 - Cascade Lead Developer / Founder : GuestSneezeOSDev
-- Cascade Co-Lead Developer / Co-Founder : J39
-- ~~Cascade Developer : maksw2~~ FUCK HIM
-- ~~Cascade Developer : YourPixelMoon/YourLocalMoon~~ FUCK HIM
+- Cascade Developer : maksw2
+- Cascade Developer : YourPixelMoon/YourLocalMoon
